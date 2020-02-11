@@ -1,0 +1,21 @@
+{
+  "name": "get-meta",
+  "version": "1.0.0",
+  "description": "get metadata from url",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "meta-data"
+  ],
+  "author": "danilo.sampaio@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "html-metadata": "^1.7.1"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
