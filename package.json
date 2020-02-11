@@ -1,6 +1,6 @@
 {
-  "name": "get-meta",
-  "version": "1.0.0",
+  "name": "extract-meta",
+  "version": "1.0.1",
   "description": "get metadata from url",
   "main": "index.js",
   "scripts": {

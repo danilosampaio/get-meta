@@ -4,7 +4,7 @@
 # Install
 
 ```shell
-npm install --save get-meta
+npm install --save extract-meta
 ```
 
 # Exemplo
